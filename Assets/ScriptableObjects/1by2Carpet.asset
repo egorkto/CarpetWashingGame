@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d40b5416887ce6a45805aead11d4bc8b, type: 3}
+  m_Name: 1by2Carpet
+  m_EditorClassIdentifier: 
+  _wholeMesh: {fileID: 6416302070336371891, guid: c1459aacef312a449b04418dfdba001b, type: 3}
+  _tornMeshs:
+  - {fileID: 1568016432510859342, guid: 066d8f32cea4de5498930b0964f18e32, type: 3}
+  - {fileID: 6349497404779363362, guid: 0798736daeba65f428ac2c9e7b171b5e, type: 3}
+  - {fileID: 6894428203817054813, guid: 6ae32c74e9bc951468e85a63273b3431, type: 3}
+  _carpetTextures:
+  - {fileID: 2800000, guid: 63e4f0d5866a03546a6ff9faa61c1c55, type: 3}
+  - {fileID: 2800000, guid: 2cc48da6017271e47823407c937b004a, type: 3}
+  - {fileID: 2800000, guid: aa83d75404a92ad4d99e24da9adb44d9, type: 3}
+  - {fileID: 2800000, guid: 35c0e46f00414a64d8c04e7fbc38419f, type: 3}
+  - {fileID: 2800000, guid: ff6dc2c329278b9438f93243384a5a9e, type: 3}
+  - {fileID: 2800000, guid: 574680a0beb088344b77cf378ddadfb5, type: 3}
+  - {fileID: 2800000, guid: 75b3f937f79165d4a8d6d29a584e3b20, type: 3}
+  - {fileID: 2800000, guid: a76864d8280518542ade5d3c136b0ffa, type: 3}
+  - {fileID: 2800000, guid: 4de718d24fe110d46a5550feec3a3b43, type: 3}
+  - {fileID: 2800000, guid: aedc726397482494d97360c8001dfffe, type: 3}
+  - {fileID: 2800000, guid: d3c61e6aa480f9b418871a8762f9116a, type: 3}
+  - {fileID: 2800000, guid: f6ce54846cd2ceb4381d3805909edb5f, type: 3}
+  _dirtyTextures1:
+  - {fileID: 2800000, guid: 8b0f297e14dea9c46b389aae233e251f, type: 3}
+  - {fileID: 2800000, guid: b973efe245c5d374cb25bebc6f489328, type: 3}
+  - {fileID: 2800000, guid: 330defc27ad51dd46abcf3e3d72358a5, type: 3}
+  - {fileID: 2800000, guid: e40ec2e28e4e5204a9d083ee5430e15d, type: 3}
+  - {fileID: 2800000, guid: 0a6ef30895fb2c444af4ae94201b9628, type: 3}
+  - {fileID: 2800000, guid: afac34cc850318e4a8adb3e142aefefa, type: 3}
+  - {fileID: 2800000, guid: 330defc27ad51dd46abcf3e3d72358a5, type: 3}
+  _dirtyTextures2:
+  - {fileID: 2800000, guid: 79109ca36b046c748b5c99a54b510ed8, type: 3}
+  - {fileID: 2800000, guid: b0c8c6f5cb27d7249a80e0e361580fee, type: 3}
+  - {fileID: 2800000, guid: 0aa1de1eb78c8e3458f07070ee1aeb07, type: 3}
+  - {fileID: 2800000, guid: ee166318c3a73ab4787d4a1b4b8e2cc6, type: 3}
+  - {fileID: 2800000, guid: 22dc867de7cb57b41885bfc24d08d957, type: 3}
+  - {fileID: 2800000, guid: ddfe3a2b767398046b60aebf99a266b8, type: 3}
